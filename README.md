@@ -11,6 +11,11 @@ A simple calculator made using tkinter.
 4. Follow the instructions. Input the operandsalong with any of the the operator symbols below(as per your requirements). The result 
 is displayed. (See Supported Operations)
 
+# Features
+.  Cross-platform
+.  easy to use
+.  Supports common mathematical functions like +	-	*	/
+
 # Supported Operations
 
     operator 	function

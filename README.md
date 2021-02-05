@@ -12,13 +12,13 @@ A simple calculator made using tkinter.
 is displayed. (See Supported Operations)
 
 # Features
-.  Cross-platform
+  Cross-platform
 
-.  easy to use
+  easy to use
 
-.  Supports common mathematical functions like +,-,*,/
+  Supports common mathematical functions like +,-,*,/
 
-. Supports clear.
+  Supports clear.
 
 # Supported Operations
 

@@ -35,3 +35,18 @@ is displayed. (See Supported Operations)
    
 
 ![image](https://user-images.githubusercontent.com/64529469/107082857-cd6f6480-681a-11eb-9983-f5183fe325b8.png)
+
+# Contributing
+
+Feel free to contribute
+
+Fork it.
+
+Create your feature branch (git checkout -b my-new-awesome-feature)
+
+Commit your changes (git commit -am 'Added <xyz> feature')
+  
+Push to the branch (git push origin my-new-awesome-feature)
+
+Create new Pull Request
+

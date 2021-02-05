@@ -1,4 +1,5 @@
 # python-calculator
+A simple calculator made using tkinter.
 
 # How to Use
 1. Clone this repository.
@@ -12,10 +13,14 @@ is displayed. (See Supported Operations)
 
 # Supported Operations
 
-operator 	function
-    +	    addition
-    -	    subtraction
-    *	    multiplication
-    /	    division
+    operator 	function
+   
+    (+)	    addition
+   
+    (-)      subtraction
+   
+    (*)	    multiplication
+    
+    (/)	    division
 
 ![image](https://user-images.githubusercontent.com/64529469/107082857-cd6f6480-681a-11eb-9983-f5183fe325b8.png)

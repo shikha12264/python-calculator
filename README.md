@@ -42,11 +42,11 @@ Feel free to contribute
 
 Fork it.
 
-Create your feature branch (git checkout -b my-new-awesome-feature)
+Create your feature branch 
 
-Commit your changes (git commit -am 'Added <xyz> feature')
+Commit your changes 
   
-Push to the branch (git push origin my-new-awesome-feature)
+Push to the branch 
 
 Create new Pull Request
 

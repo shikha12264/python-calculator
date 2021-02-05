@@ -8,7 +8,8 @@ A simple calculator made using tkinter.
 
 3. Execute calculator.py:
 
-4. Follow the instructions. Input the operandsalong with any of the the operator symbols below(as per your requirements). The result 
+4. Follow the instructions. 
+Input the operands along with any of the the operator symbols below (as per your requirements). The result 
 is displayed. (See Supported Operations)
 
 # Features

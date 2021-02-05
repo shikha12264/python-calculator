@@ -26,7 +26,7 @@ is displayed. (See Supported Operations)
    
     (+)	        addition
    
-    (-)           subtraction
+    (-)             subtraction
    
     (*)	        multiplication
     
